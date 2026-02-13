@@ -1,5 +1,11 @@
 ### Gestión de Guardias Médicas
 
+## 🖼️ Screenshot
+
+<p align="center">
+  <img src="./Gestor_Guardias.png" alt="Gestor De Guardias Medicas" width="900" />
+</p>
+
 **Gestión de Guardias Médicas** es una aplicación web diseñada para facilitar la gestión de guardias médicas en la Comunidad de Madrid. La aplicación permite la asignación automática de guardias de manera equitativa, la gestión de la disponibilidad de los médicos, la comunicación de asignaciones, y la visualización de estadísticas detalladas, todo a través de una interfaz gráfica moderna y responsiva.
 
 ## Funcionalidades Principales
